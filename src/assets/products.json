@@ -1,0 +1,50 @@
+{
+    "_id": "6181849285e8d8f86be2e0e0",
+    "name": "Brossard - Gâteaux fourrés au chocolat (150g)",
+    "description": "",
+    "category_id": {
+        "_id": "6181840f60c425f76e57b56c",
+        "name": "Gâteaux ",
+        "slug": "epicerie-sucree-gateaux",
+        "parent_id": "6181841060c425f76e57b5b3",
+        "product_skus": [
+            "14002682",
+            "14002673",
+            "14000865",
+            "14000866",
+            "14002683",
+            "14000900",
+            "14002684",
+            "14002672",
+            "14000879",
+            "14002775",
+            "14002678",
+            "14000897",
+            "14002671",
+            "14002776",
+            "14002675",
+            "14002777",
+            "14002681",
+            "14002680"
+        ],
+        "rank": 2
+    },
+    "slug": "brossard-gateaux-fourres-au-chocolat-150g",
+    "sku": "14002680",
+    "variant_id": "14002680",
+    "quantity": 0,
+    "price": {
+        "currency": "EUR",
+        "amount": 1.55
+    },
+    "thumbnail": "https://res.cloudinary.com/goflink/image/upload/c_fill,g_south,w_300,h_300/fr/products/1_14002680_202108092330.png",
+    "images": [
+        "https://res.cloudinary.com/goflink/image/upload/w_600,h_800/fr/products/1_14002680_202108092330.png",
+        "https://res.cloudinary.com/goflink/image/upload/w_600,h_800/fr/products/2_14002680_202108092330.png",
+        "https://res.cloudinary.com/goflink/image/upload/w_600,h_800/fr/products/3_14002680_202108092330.png"
+    ],
+    "synonyms": [
+        "brossard - gâteaux fourrés au chocolat (150g)"
+    ],
+    "alcohol": false
+}
